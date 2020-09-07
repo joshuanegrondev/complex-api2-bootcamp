@@ -1,0 +1,16 @@
+body{
+  background-image: url("background.jpg");
+  color: white;
+  text-align: center;
+}
+
+p{
+  width: 50%;
+  margin-left: 25%;
+  font-size: 28px;
+}
+
+img{
+  height: 250px;
+  width: 30%;
+}
